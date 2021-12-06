@@ -60,13 +60,16 @@ export default function About() {
                 <Typography variant="h5" gutterBottom component="p">
                     {about.description}
                 </Typography>
-                 <Typography variant="h4" gutterBottom component="p">
-                    Name: Muhammad Usman                    
+ <Typography variant="h2" gutterBottom component="p">
+                    Contact me
+                </Typography>
+                 <Typography variant="h5" gutterBottom component="p">
+                    Name: Muhammad Usman      <br/>   sdfadf           
                                     </Typography>  
-                <Typography variant="h4" gutterBottom component="p">
-                Email: usman.khalid444@gmail.com
+                <Typography variant="h5" gutterBottom component="p">
+                Email: usman.khalid44445@gmail.com
                     </Typography>
-<Typography variant="h4" gutterBottom component="p">
+<Typography variant="h5" gutterBottom component="p">
     Contact#: +923214042763            
     </Typography>
 <Typography variant="h4" gutterBottom component="p">
