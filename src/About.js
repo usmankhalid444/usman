@@ -59,7 +59,13 @@ export default function About() {
                 </Typography>
                 <Typography variant="h5" gutterBottom component="p">
                     {about.description}
-                </Typography>                
+                </Typography>
+                 <Typography variant="h2" gutterBottom component="p">
+                    Name: Muhammad Usman
+                    Email: usman.khalid444@gmail.com
+                    Contact#: +923214042763
+                    Adress: House # 19 Main Bazar Mozang Lahore
+                </Typography>  
             </Grid>
             <Grid container direction="column" item xs={12} lg={6} spacing={2} justify="center" alignItems="center">
                 <Grid item xs={12}>
