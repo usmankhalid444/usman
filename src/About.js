@@ -58,27 +58,18 @@ export default function About() {
                     About me
                 </Typography>
                 <Typography variant="h5" gutterBottom component="p">
-                    {about.description}
+                    {about.description} <br/> <br/>
                 </Typography>
  <Typography variant="h2" gutterBottom component="p">
                     Contact me
                 </Typography>
                  <Typography variant="h5" gutterBottom component="p">
-                    Name: Muhammad Usman      <br/>   sdfadf           
+                    Name: Muhammad Usman      <br/>
+                    Email: usman.khalid44445@gmail.com  <br/>
+                    Contact#: +923214042763   <br/>
+                    Adress: House # 19 Main Bazar Mozang Lahore
                                     </Typography>  
-                <Typography variant="h5" gutterBottom component="p">
-                Email: usman.khalid44445@gmail.com
-                    </Typography>
-<Typography variant="h5" gutterBottom component="p">
-    Contact#: +923214042763            
-    </Typography>
-<Typography variant="h4" gutterBottom component="p">
-                </Typography>
-<Typography variant="h4" gutterBottom component="p">
-    Adress: House # 19 Main Bazar Mozang Lahore
-            
-    </Typography>
-                
+               
                     </Grid>
             <Grid container direction="column" item xs={12} lg={6} spacing={2} justify="center" alignItems="center">
                 <Grid item xs={12}>
