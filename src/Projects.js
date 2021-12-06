@@ -35,10 +35,10 @@ export default function Projects({ data }) {
                     <Fade in={animate} style={{ transitionDelay: '250ms' }}>
                         <div>
                             <Image
-                                alt="Projects"
-                                src="/projects.svg"
-                                width="1144"
-                                height="617.32"
+//                                 alt="Projects"
+//                                 src="/projects.svg"
+//                                 width="1144"
+//                                 height="617.32"
                             />
                         </div>
                     </Fade>
