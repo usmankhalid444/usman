@@ -7,6 +7,7 @@ import useAnimate from "./useAnimate";
 const useStyles = makeStyles(theme => ({
     cont: {
         minHeight: `calc(100vh - ${theme.spacing(4)}px)`,
+        display: 'none'
     },
     card: {
         height: '100%'
