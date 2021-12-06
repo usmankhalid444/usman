@@ -83,7 +83,8 @@
     "projects": {
         "baseURI": "https://api.github.com/repos/kausko/",
         "repositories": [
-            
+            project1,
+            project2
         ]
     },
     "experience": {
