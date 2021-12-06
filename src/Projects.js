@@ -27,6 +27,23 @@ export default function Projects({ data }) {
 
     return (
         <Grid direction="row-reverse" container justify="center" alignItems="center" spacing={10} className={classes.cont}>
+            <Grid item xs={12} lg={6}>
+                <Typography variant="h2" gutterBottom align="center" innerRef={animRef}>
+                    Projects
+                </Typography>
+                <Hidden mdDown>
+                    <Fade in={animate} style={{ transitionDelay: '250ms' }}>
+                        <div>
+                            <Image
+                                alt="Projects"
+                                src="/projects.svg"
+                                width="1144"
+                                height="617.32"
+                            />
+                        </div>
+                    </Fade>
+                </Hidden>
+            </Grid>
             <Grid container item xs={12} lg={6} direction="row" spacing={1}>
                 {
                     !!data && data.map((v, i) =>
