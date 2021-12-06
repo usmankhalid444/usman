@@ -83,12 +83,7 @@
     "projects": {
         "baseURI": "https://api.github.com/repos/kausko/",
         "repositories": [
-            "Genrealize",
-            "Portfolio",
-            "cosmicom",
-            "Discord-Google-Drive-Bot",
-            "GitHits",
-            "1DBM"
+            
         ]
     },
     "experience": {
