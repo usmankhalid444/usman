@@ -60,13 +60,23 @@ export default function About() {
                 <Typography variant="h5" gutterBottom component="p">
                     {about.description}
                 </Typography>
-                 <Typography variant="h2" gutterBottom component="p">
-                    Name: Muhammad Usman
-                    Email: usman.khalid444@gmail.com
-                    Contact#: +923214042763
-                    Adress: House # 19 Main Bazar Mozang Lahore
-                </Typography>  
-            </Grid>
+                 <Typography variant="h4" gutterBottom component="p">
+                    Name: Muhammad Usman                    
+                                    </Typography>  
+                <Typography variant="h4" gutterBottom component="p">
+                Email: usman.khalid444@gmail.com
+                    </Typography>
+<Typography variant="h4" gutterBottom component="p">
+    Contact#: +923214042763            
+    </Typography>
+<Typography variant="h4" gutterBottom component="p">
+                </Typography>
+<Typography variant="h4" gutterBottom component="p">
+    Adress: House # 19 Main Bazar Mozang Lahore
+            
+    </Typography>
+                
+                    </Grid>
             <Grid container direction="column" item xs={12} lg={6} spacing={2} justify="center" alignItems="center">
                 <Grid item xs={12}>
                     <Avatar variant="rounded" className={classes.dp}>
