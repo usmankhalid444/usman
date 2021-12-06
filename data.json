@@ -146,22 +146,22 @@
         ]
     },
     "about": {
-        "description": "I am a full-stack cross-platform app developer, pursuing my B.E in Computer Engineering from Pune Institute of Computer Technology. I strive to make meaningful applications with the best UI practices.",
+        "description": "A dedicated and skilled, Web Developer with 1.5 year extensive practical experience. With strong expertise in Development of Web (Html, CSS, JavaScript, React ,Nodejs & Mongo DB) Highly skilled & effective leadership and Team-Oriented Strong Software Engineering skills, Proficient in determining requirements & resolving technical issues quickly. Love to learn and quickly learn new tools & technologies.",
         "picture": "/profile.jpg",
         "social": [
             {
-                "alt": "kaustubh._.o",
+                "alt": "usman.khalid444",
                 "icon": "instagram",
-                "link": "https://www.instagram.com/kaustubh._.o/"
+                "link": "https://www.instagram.com/usman.khalid444/"
             },
             {
-                "alt": "KO_272",
+                "alt": "usman.khalid444",
                 "icon": "twitter",
-                "link": "https://twitter.com/KO_272"
+                "link": "https://twitter.com/UsmanKhalid444"
             },
             {
                 "alt": "kaustubh#4489",
-                "icon": "discord",
+                "icon": "facebook",
                 "link": "https://discord.com/"
             }
         ]
