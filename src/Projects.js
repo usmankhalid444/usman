@@ -7,14 +7,15 @@ import useAnimate from "./useAnimate";
 const useStyles = makeStyles(theme => ({
     cont: {
         minHeight: `calc(100vh - ${theme.spacing(4)}px)`,
-        display: 'none'
+        display: 'none',
     },
     card: {
-        height: '100%'
+        height: '100%',
+        display:'none'
     },
     cardActionArea: {
         height: '100%',
-        // display: 'grid'
+        display: 'none'
     }
 }))
 
@@ -26,7 +27,7 @@ export default function Projects({ data }) {
     const animate = useAnimate(animRef)
 
     return (
-        <Grid direction="row-reverse" container justify="center" alignItems="center" spacing={10} className={classes.cont}">
+        <Grid direction="row-reverse" container justify="center" alignItems="center" spacing={10} className={classes.cont}>
             <Grid item xs={12} lg={6}>
                 <Typography variant="h2" gutterBottom align="center" innerRef={animRef}>
                     Projects
