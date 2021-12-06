@@ -1,7 +1,7 @@
 {
-    "name": "Kaustubh Odak",
+    "name": "Usman",
     "landing": {
-        "title": "Hi, I'm Kaustubh",
+        "title": "Hi, I'm Usman",
         "subtitles": [
             "Full-stack developer 🌐",
             "Cross-platform developer 📱💻",
@@ -11,24 +11,24 @@
         ],
         "professionalDetails": [
             {
-                "alt": "kaustubh-odak",
+                "alt": "linkedin",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
+                "link": "https://www.linkedin.com/in/usman-khalid-73b481138/"
             },
             {
-                "alt": "kausko",
+                "alt": "stackoverflow",
                 "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
+                "link": "https://stackoverflow.com/users/17603306/usman-khalid"
             },
             {
-                "alt": "kausko",
+                "alt": "github",
                 "icon": "github",
-                "link": "https://github.com/kausko"
+                "link": "https://github.com/usmankhalid444"
             },
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "usman.khalid444@gmail.com"
             }
         ]
     },
@@ -94,16 +94,16 @@
     "experience": {
         "Work Experience": [
             {
-                "organization": "CloudDFN LLP",
+                "organization": "CodeNdCoffee",
                 "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2020-07-20",
-                "endDate": "2021-01-20",
-                "city": "Mumbai",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "/CDFN.jfif"
+                "type": "Developer",
+                "startDate": "2021-02-20",
+                "endDate": "Continue",
+                "city": "Lahore",
+                "state": "Punjab",
+                "country": "Pakistan",
+                "url": "http://www.codendcoffee.com//",
+                "thumbnail": "http://www.codendcoffee.com/public/assets/images/logo/Codeorcoffe-png-500x200-bold.png"
             },
             {
                 "organization": "NonceBlox Pvt. Ltd.",
